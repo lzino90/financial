@@ -1,5 +1,4 @@
 # financial
-
 Code used in the paper "On the role of the network structure on the resilience and worst-case loss of financial systems" by L. Zino, G. Fracastoro, A. Proskurnikov, and G. C. Calafiore
 
 
